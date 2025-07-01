@@ -9,6 +9,7 @@ BASIC INTRO
 - TGUI 1.9
 
 To run the game:
+- unzip both SFML3 and TGUI 1.9 external libraries, make sure to unzip into the same folder as Breakout.sln
 - open up Breakout.sln
 - set build config to either Debug x64 or Release x64
 - Compile
