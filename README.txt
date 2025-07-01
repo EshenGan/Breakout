@@ -8,15 +8,10 @@ BASIC INTRO
 - SFML 3
 - TGUI 1.9
 
-- zip should contain 
-	- Breakout folder ** source codes in here along with some other resource files like .wav/.txt/.ttf
-	- SFML-3.0.0 folder ** proj is set to point to this for external dependencies like \lib and \include
-	- TGUI-1.9 folder ** proj is set to point to this for external dependencies like \lib and \include
-	- x64 folder ** exe and pdb should be generated here when first compile, zip does not contain them
-		- Debug folder ** all required debug dlls should be here 
-		- Release folder ** all required release dlls should be here 
-	- Breakout.sln 
-	- README.txt
+To run the game:
+- open up Breakout.sln
+- set build config to either Debug x64 or Release x64
+- Compile
 
 
 References/Resources:
